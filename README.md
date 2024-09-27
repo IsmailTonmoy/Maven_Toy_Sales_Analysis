@@ -27,7 +27,7 @@ year.It includes filters for dimensions like Store Name, Product Category, Fisca
 3. Expand Top-performing Stores: Allocate more resources and stock to locations with the highest growth potential based on sales analysis.
 4. Improve Seasonal Sales Strategies: Use month-over-month data to adjust seasonal stock and promotion strategies in advance to maximize sales during high-demand periods.
 
-Tools 
+# Tools 
 * Microsoft Power BI
 
 # Data Model
